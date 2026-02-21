@@ -1,7 +1,7 @@
 
-## Big Data Documents
+## System Design
 
-Free course BigData
+Free course
 
 ## Course Structure 
 ![structure](https://github.com/eskazemi/Big-Data/blob/main/structure.png)
@@ -30,16 +30,7 @@ Free course BigData
 - MariaDB
 - SQL Server
 
-[Apache Hadoop and Map Reduce]()
--
-- Apache Hive
-- Apache Pig 
-- Apache Sqoop
-- Apache Hbase Database
-- Hadoop
-- Map Reduce
-
-### [Concepts Basic and system design](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+### [Concepts Basic](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
 - [DNS](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
 - Replication
 - CAP Theory
@@ -50,10 +41,6 @@ Free course BigData
 - NOSQL vs SQL
 - Sharding
 - Transaction
-
-
-
-
 
 ## 🔗 Links
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eskazemi/)
