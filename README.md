@@ -7,8 +7,7 @@ Free course
 ![structure](https://github.com/eskazemi/Big-Data/blob/main/structure.png)
 ## video
 #### Coming Soon
-
-<img src="https://github.com/eskazemi/Big-Data/blob/main/IMG_20210924_204717_719.JPG" alt="drawing" width="400" height="400"/>
+...
 
 ## Documentation
 
@@ -30,8 +29,10 @@ Free course
 - MariaDB
 - SQL Server
 
-### [Concepts Basic](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+### [Basic Concepts](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
 - [DNS](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+- CDN
+- [Load Balancer](https://github.com/eskazemi/system-design/tree/main/Documents/Basic%20Concepts)
 - Replication
 - CAP Theory
 - Consistence Hashing
@@ -41,6 +42,7 @@ Free course
 - NOSQL vs SQL
 - Sharding
 - Transaction
+- Rate Limiter
 
 ## 🔗 Links
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eskazemi/)
