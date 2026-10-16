@@ -2,17 +2,19 @@
 ## System Design
 
 Free course
+![structure](https://github.com/eskazemi/system-design/blob/main/picture.png)
+
 
 ## Course Structure 
-![structure](https://github.com/eskazemi/Big-Data/blob/main/structure.png)
+![structure](https://github.com/eskazemi/system-design/blob/main/structure.png)
 ## video
 #### Coming Soon
 ...
 
 ## Documentation
 
-### [NOSQL](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/NoSQL)
-- [Key-Value Databaes](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/NoSQL/Key-Value%20Databases)
+### [NOSQL](https://github.com/eskazemi/system-design/tree/main/Documents/NoSQL)
+- [Key-Value Databaes](https://github.com/eskazemi/system-design/tree/main/Documents/NoSQL/Key-Value%20Databases)
 - Document Database
 - Graph Database
 - Wide-column Databases
@@ -29,8 +31,8 @@ Free course
 - MariaDB
 - SQL Server
 
-### [Basic Concepts](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
-- [DNS](https://github.com/eskazemi/Big-data-with-the-Dovops-approach/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+### [Basic Concepts](https://github.com/eskazemi/system-design/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+- [DNS](https://github.com/eskazemi/system-design/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
 - CDN
 - [Load Balancer](https://github.com/eskazemi/system-design/tree/main/Documents/Basic%20Concepts)
 - Replication
