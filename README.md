@@ -32,7 +32,7 @@ Free course
 - SQL Server
 
 ### [Basic Concepts](https://github.com/eskazemi/system-design/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
-- [DNS](https://github.com/eskazemi/system-design/tree/main/Documents/Concepts%20Basic%20and%20System%20Design)
+- [DNS](https://github.com/eskazemi/system-design/tree/main/Documents/Basic%20Concepts)
 - CDN
 - [Load Balancer](https://github.com/eskazemi/system-design/tree/main/Documents/Basic%20Concepts)
 - Replication
